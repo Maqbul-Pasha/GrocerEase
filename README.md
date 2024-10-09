@@ -23,7 +23,10 @@ GrocerEase is an Android application designed to simplify grocery management. It
 
 ## Screenshots
 
-[Include screenshots of your app here, showing the login screen, main grocery list, and add/edit screens]
+![grocerease](https://github.com/user-attachments/assets/a51ca787-c71e-4edc-8c0b-152f4ec10068)
+
+![grocerease1](https://github.com/user-attachments/assets/3904986d-53cb-466a-a0f7-ce5e5e213205)
+
 
 ## Getting Started
 
@@ -31,7 +34,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/GrocerEase.git
+   git clone https://github.com/Maqbul-Pasha/GrocerEase.git
    ```
 2. Open the project in Android Studio
 3. Sync the project with Gradle files
@@ -68,9 +71,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/your-username/GrocerEase](https://github.com/your-username/GrocerEase)
+Project Link: [https://github.com/Maqbul-Pasha/GrocerEase](https://github.com/Maqbul-Pasha/GrocerEase)
 
 ## Acknowledgements
 
