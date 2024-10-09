@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grocery_categories">
+        <item>Fruits</item>
+        <item>Dairy</item>
+        <item>Vegetables</item>
+        <item>Meat</item>
+        <item>Beverages</item>
+        <item>Other</item>
+    </string-array>
+</resources>
